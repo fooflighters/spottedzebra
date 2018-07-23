@@ -448,7 +448,6 @@ template {
 
 	.site-header {
 		grid-column: span 2;
-		background: orange;
 	}
 
 	.site-main {
